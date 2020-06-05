@@ -9,3 +9,4 @@
         <p>Geen berichten gevonden...</p>
     <?php endif
 ?>  
+<?php get_footer() ?>
