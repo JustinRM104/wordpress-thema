@@ -37,7 +37,7 @@ body{
 }
 
 .jumbotron a:hover{
-    color: white;
+    color: grey;
     text-decoration: none;
 }
 /* Eigen Google font koppelen */
@@ -59,7 +59,7 @@ body{
 }
 
 .widget-footer-titel{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 /* Widgets in aside */
@@ -68,12 +68,12 @@ body{
 }
 
 .widget-aside{
-    padding: 2em 1em 2em 1em;
+    padding: 2em 2em 2em 2em;
     border-bottom: 1px solid black;
 }
 
 .widget-titel{
-    font-size: .7;
+    font-size: .9;
 }
 
 /* De meta data van de posts */
